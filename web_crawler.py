@@ -46,7 +46,7 @@ total_views = sum(article_views)
 #print("平均文章觀看次數: "+str(round((total_views/len(article_views)),0)))
 #print("資料更新時間:",datetime.datetime.now())
 
-f = open("Record.md", "w",encoding='UTF-8')
+f = open("README.md", "w",encoding='UTF-8')
 f.write("# iT邦幫忙 個人統計\n")
 f.write("## 累計發布文章篇數: "+str(len(article_views))+"\n")
 f.write("## 累計文章觀看次數: "+str(total_views)+"\n")
