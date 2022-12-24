@@ -1,6 +1,11 @@
 import requests as req
 from bs4 import BeautifulSoup
-import datetime
+import datetime 
+import pytz
+import pickle
+
+#create Taipei timezone
+tw = pytz.timezone('Asia/Taipei')
 
 # 指定要抓取的網頁URL
 url = "https://ithelp.ithome.com.tw/users/20135354/articles?"
@@ -46,14 +51,21 @@ total_views = sum(article_views)
 #print("平均文章觀看次數: "+str(round((total_views/len(article_views)),0)))
 #print("資料更新時間:",datetime.datetime.now())
 
+with open('lastRecord.txt', 'rb') as f:
+    lastRecord = pickle.load(f)
+
+lastRecord['lastView'] = int(lastRecord['lastView'])
+add_view = total_views - lastRecord['lastView'] 
+
 f = open("README.md", "w",encoding='UTF-8')
 f.write("# iT邦幫忙 個人統計\n")
 f.write("## 累計發布文章篇數: "+str(len(article_views))+"\n")
-f.write("## 累計文章觀看次數: "+str(total_views)+"\n")
+f.write("## 累計文章觀看次數: "+str(total_views)+" ("+str(add_view)+"\u2191)"+"\n")
 f.write("## 平均文章觀看次數: "+str(round((total_views/len(article_views)),0))+"\n")
-f.write("## 資料更新時間: "+str(datetime.datetime.now()))
+f.write("## 資料更新時間: "+str(datetime.datetime.now(tw).strftime("%Y-%m-%d %H:%M:%S")))
 f.close()
 
-#open and read the file after the appending:
-#f = open("Record.md", "r",encoding='UTF-8')
-#print(f.read())
+dict1 = {'lastView' : total_views}
+file1 = open("lastRecord.txt", "wb") 
+pickle.dump(dict1, file1)
+file1.close()

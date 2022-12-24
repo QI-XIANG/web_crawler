@@ -2,7 +2,7 @@ name: run web_srawler.py
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # Run Every 1 hours
+    - cron: '0 */6 * * *' # Run Every 6 hours
 
 jobs:
   build:
@@ -30,7 +30,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Updated Record.md" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Updated README.md" --allow-empty)
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
