@@ -1,8 +1,8 @@
-name: run main.py
+name: run web_srawler.py
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Run Every 6 hours
+    - cron: '0 */1 * * *' # Run Every 1 hours
 
 jobs:
   build:
