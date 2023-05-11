@@ -1,9 +1,10 @@
 # iT邦幫忙 個人統計
-### 累計發布文章篇數: 66
-### 累計文章觀看次數: 60625 (55↑)
-### 平均文章觀看次數: 919.0
-###### 資料更新時間: 2023-05-11 20:25:50
+### 累計發布文章篇數: 67
+### 累計文章觀看次數: 60668 (43↑)
+### 平均文章觀看次數: 905.0
+###### 資料更新時間: 2023-05-12 02:15:35
 
+* 2023-05-12 [SVG 自學微筆記(02) - 繪製矩形 & 補充說明](https://ithelp.ithome.com.tw/articles/10311311)
 * 2023-05-09 [SVG 自學微筆記(01) - 初步認識 SVG](https://ithelp.ithome.com.tw/articles/10311307)
 * 2022-11-06 [【Day 31】Django 初心者之旅的結束](https://ithelp.ithome.com.tw/articles/10309287)
 * 2022-10-15 [【Day 30】Django 網站部署篇 - PythonAnywhere](https://ithelp.ithome.com.tw/articles/10308084)
