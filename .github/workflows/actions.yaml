@@ -2,7 +2,7 @@ name: run web_srawler.py & update_article.py
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Run Every 6 hours
+    - cron: '0 */8 * * *' # Run Every 8 hours
 
 jobs:
   build:
