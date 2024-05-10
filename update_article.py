@@ -13,13 +13,17 @@ web_content = r.text
 soup = BeautifulSoup(web_content, 'html.parser')
 qa_title = soup.find_all('a', class_='qa-list__title-link')
 qa_time = soup.find_all('a', class_='qa-list__info-time')
-boardNameElements = soup.find('div', class_="profile-pagination").find_all('a')
+#boardNameElements = soup.find('div', class_="profile-pagination").find_all('a')
 
 article_links = []
+page_count = [x for x in range(1,10,1)]
 
-for article_link in boardNameElements:
+'''for article_link in boardNameElements:
     #print(article_link['href'])
-    article_links.append(article_link['href'])
+    article_links.append(article_link['href'])'''
+
+for article_link in page_count:
+    article_links.append(url+"page="+str(article_link))
 
 article_links = list(article_links[:len(article_links)-1])
 

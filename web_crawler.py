@@ -18,21 +18,29 @@ r = req.get(url,headers=headers)
 web_content = r.text
 soup = BeautifulSoup(web_content, 'html.parser')
 qa_count = soup.find_all('span', class_='qa-condition__count')[2::3]
-boardNameElements = soup.find('div', class_="profile-pagination").find_all('a')
+#boardNameElements = soup.find('div', class_="profile-pagination").find_all('a')
+#print(boardNameElements)
 
 article_links = []
 article_views = []
+page_count = [x for x in range(2,9,1)]
 
-for article_link in boardNameElements:
-    #print(article_link['href'])
-    article_links.append(article_link['href'])
+#print(page_count)
+
+'''for article_link in boardNameElements:
+    print(article_link['href'])
+    article_links.append(article_link['href'])'''
+
+for article_link in page_count:
+    article_links.append(url+"page="+str(article_link))
 
 for article_view in qa_count:
     #print(article_view.string)
     article_views.append(int(article_view.string))
 
 
-article_links = list(set(article_links))
+#article_links = list(set(article_links))
+
 #print(article_links)
 
 for article_link in article_links:
