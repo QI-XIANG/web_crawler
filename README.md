@@ -1,8 +1,8 @@
 # iT邦幫忙 個人統計
-### 累計發布文章篇數: 15
-### 累計文章觀看次數: 25926 (-171417↑)
-### 平均文章觀看次數: 1728.0
-###### 資料更新時間: 2026-04-14 11:27:31
+### 累計發布文章篇數: 75
+### 累計文章觀看次數: 197420 (171494↑)
+### 平均文章觀看次數: 2632.0
+###### 資料更新時間: 2026-04-14 17:26:24
 
 * 2023-06-22 [SVG 自學微筆記(10) - SVG...然後呢?](https://ithelp.ithome.com.tw/articles/10312695)
 * 2023-06-03 [SVG 自學微筆記(09) - 路徑](https://ithelp.ithome.com.tw/articles/10312187)
@@ -24,6 +24,16 @@
 * 2022-10-09 [【Day 24】 Django Template Tags 補充篇(5) - Include](https://ithelp.ithome.com.tw/articles/10305837)
 * 2022-10-08 [【Day 23】Django Template Tags 補充篇(4) - Extends](https://ithelp.ithome.com.tw/articles/10305836)
 * 2022-10-07 [【Day 22】Django Template Tags 補充篇(3) – Cycle & Comment](https://ithelp.ithome.com.tw/articles/10305339)
+* 2022-10-06 [【Day 21】Django Template Tags 補充篇(2) – For Loop](https://ithelp.ithome.com.tw/articles/10303417)
+* 2022-10-05 [【Day 20】Django Template Tags 補充篇(1) – If & Logical Operators](https://ithelp.ithome.com.tw/articles/10303172)
+* 2022-10-04 [【Day 19】網頁更新資料庫資料表紀錄 (下)](https://ithelp.ithome.com.tw/articles/10303165)
+* 2022-10-03 [【Day 18】網頁更新資料庫資料表紀錄 (上)](https://ithelp.ithome.com.tw/articles/10303160)
+* 2022-10-02 [【Day 17】網頁刪除資料庫資料表紀錄](https://ithelp.ithome.com.tw/articles/10301341)
+* 2022-10-01 [【Day 16】Django Template Tags 番外篇 – CSRF Token](https://ithelp.ithome.com.tw/articles/10301336)
+* 2022-09-30 [【Day 15】網頁新增紀錄到資料庫資料表 (下)](https://ithelp.ithome.com.tw/articles/10299825)
+* 2022-09-29 [【Day 14】網頁新增紀錄到資料庫資料表 (上)](https://ithelp.ithome.com.tw/articles/10299799)
+* 2022-09-28 [【Day 13】Django Records in Template](https://ithelp.ithome.com.tw/articles/10299762)
+* 2022-09-27 [【Day 12】 Django Template Tags & Variables](https://ithelp.ithome.com.tw/articles/10298621)
 * 2022-09-26 [【Day 11】Django Models 番外篇(2) – Migrations](https://ithelp.ithome.com.tw/articles/10297977)
 * 2022-09-25 [【Day 10】Django Models 番外篇(1) – ORM](https://ithelp.ithome.com.tw/articles/10297644)
 * 2022-09-24 [【Day 09】在 Python Shell 新增 Records](https://ithelp.ithome.com.tw/articles/10296881)
@@ -54,3 +64,18 @@
 * 2021-09-18 [Day 18 - Tally String Times with Reduce](https://ithelp.ithome.com.tw/articles/10267101)
 * 2021-09-17 [Day 17 - Sorting Band Names without articles](https://ithelp.ithome.com.tw/articles/10265886)
 * 2021-09-16 [Day 16 - CSS Text Shadow Mouse Move Effect](https://ithelp.ithome.com.tw/articles/10264930)
+* 2021-09-15 [Day 15 - LocalStorage and Event Delegation](https://ithelp.ithome.com.tw/articles/10264123)
+* 2021-09-14 [Day 14 - Object and Arrays - Reference VS Copy](https://ithelp.ithome.com.tw/articles/10263645)
+* 2021-09-13 [Day 13 - Slide In on Scroll](https://ithelp.ithome.com.tw/articles/10263151)
+* 2021-09-12 [Day 12 - Key Sequence Detection (KONAMI CODE)](https://ithelp.ithome.com.tw/articles/10262716)
+* 2021-09-11 [Day 11 - Custom HTML5 Video Player](https://ithelp.ithome.com.tw/articles/10262441)
+* 2021-09-10 [Day 10 - Hold Shift to Check Multiple Checkboxes](https://ithelp.ithome.com.tw/articles/10262242)
+* 2021-09-09 [Day 9 - 14 Must Know Dev Tools Tricks](https://ithelp.ithome.com.tw/articles/10261702)
+* 2021-09-08 [Day 8 - Fun with HTML5 Canvas](https://ithelp.ithome.com.tw/articles/10261307)
+* 2021-09-07 [Day 7 - Array Cardio Day 2](https://ithelp.ithome.com.tw/articles/10260935)
+* 2021-09-06 [Day 6 - Ajax Type Ahead](https://ithelp.ithome.com.tw/articles/10260616)
+* 2021-09-05 [Day 5 - Flex Panels Image Gallery](https://ithelp.ithome.com.tw/articles/10260408)
+* 2021-09-04 [Day 4 - Array Cardio Day 1](https://ithelp.ithome.com.tw/articles/10259990)
+* 2021-09-03 [Day 3 - Playing with CSS](https://ithelp.ithome.com.tw/articles/10259723)
+* 2021-09-02 [Day 2 - CSS + JS Clock](https://ithelp.ithome.com.tw/articles/10259313)
+* 2021-09-01 [Day 1 - JavaScript Drum Kit](https://ithelp.ithome.com.tw/articles/10259079)
