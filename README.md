@@ -1,8 +1,8 @@
 # iT邦幫忙 個人統計
-### 累計發布文章篇數: 75
-### 累計文章觀看次數: 199636 (27↑)
-### 平均文章觀看次數: 2662.0
-###### 資料更新時間: 2026-05-01 01:26:28
+### 累計發布文章篇數: 25
+### 累計文章觀看次數: 89804 (-109832↑)
+### 平均文章觀看次數: 3592.0
+###### 資料更新時間: 2026-05-01 11:59:14
 
 * 2023-06-22 [SVG 自學微筆記(10) - SVG...然後呢?](https://ithelp.ithome.com.tw/articles/10312695)
 * 2023-06-03 [SVG 自學微筆記(09) - 路徑](https://ithelp.ithome.com.tw/articles/10312187)
@@ -54,26 +54,6 @@
 * 2021-09-28 [Day 28 - Build a Experimental Video Speed Controller UI](https://ithelp.ithome.com.tw/articles/10273844)
 * 2021-09-27 [Day 27 - Click and Drag to Scroll](https://ithelp.ithome.com.tw/articles/10273130)
 * 2021-09-26 [Day 26 - Stripe Follow Along Dropdown Navigation [更新]](https://ithelp.ithome.com.tw/articles/10272127)
-* 2021-09-25 [Day 25 - Event Capture, Propagation, Bubbling and Once](https://ithelp.ithome.com.tw/articles/10271964)
-* 2021-09-24 [Day 24 - Sticky Nav](https://ithelp.ithome.com.tw/articles/10271429)
-* 2021-09-23 [Day 23 - Speech Synthesis](https://ithelp.ithome.com.tw/articles/10270667)
-* 2021-09-22 [Day 22 - Follow Along Links](https://ithelp.ithome.com.tw/articles/10269926)
-* 2021-09-21 [Day 21 - Geolocation based Speedometer and Compass](https://ithelp.ithome.com.tw/articles/10269325)
-* 2021-09-20 [Day 20 - Native Speech Recognition](https://ithelp.ithome.com.tw/articles/10267972)
-* 2021-09-19 [Day 19 - Unreal Webcam Fun [更新]](https://ithelp.ithome.com.tw/articles/10267963)
-* 2021-09-18 [Day 18 - Tally String Times with Reduce](https://ithelp.ithome.com.tw/articles/10267101)
-* 2021-09-17 [Day 17 - Sorting Band Names without articles](https://ithelp.ithome.com.tw/articles/10265886)
-* 2021-09-16 [Day 16 - CSS Text Shadow Mouse Move Effect](https://ithelp.ithome.com.tw/articles/10264930)
-* 2021-09-15 [Day 15 - LocalStorage and Event Delegation](https://ithelp.ithome.com.tw/articles/10264123)
-* 2021-09-14 [Day 14 - Object and Arrays - Reference VS Copy](https://ithelp.ithome.com.tw/articles/10263645)
-* 2021-09-13 [Day 13 - Slide In on Scroll](https://ithelp.ithome.com.tw/articles/10263151)
-* 2021-09-12 [Day 12 - Key Sequence Detection (KONAMI CODE)](https://ithelp.ithome.com.tw/articles/10262716)
-* 2021-09-11 [Day 11 - Custom HTML5 Video Player](https://ithelp.ithome.com.tw/articles/10262441)
-* 2021-09-10 [Day 10 - Hold Shift to Check Multiple Checkboxes](https://ithelp.ithome.com.tw/articles/10262242)
-* 2021-09-09 [Day 9 - 14 Must Know Dev Tools Tricks](https://ithelp.ithome.com.tw/articles/10261702)
-* 2021-09-08 [Day 8 - Fun with HTML5 Canvas](https://ithelp.ithome.com.tw/articles/10261307)
-* 2021-09-07 [Day 7 - Array Cardio Day 2](https://ithelp.ithome.com.tw/articles/10260935)
-* 2021-09-06 [Day 6 - Ajax Type Ahead](https://ithelp.ithome.com.tw/articles/10260616)
 * 2021-09-05 [Day 5 - Flex Panels Image Gallery](https://ithelp.ithome.com.tw/articles/10260408)
 * 2021-09-04 [Day 4 - Array Cardio Day 1](https://ithelp.ithome.com.tw/articles/10259990)
 * 2021-09-03 [Day 3 - Playing with CSS](https://ithelp.ithome.com.tw/articles/10259723)
